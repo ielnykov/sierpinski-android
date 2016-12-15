@@ -1,0 +1,10 @@
+.idea
+.gradle
+build
+Application/build
+local.properties
+gradle
+Application/Application.iml
+gradlew
+gradlew.bat
+sierpinski-android.iml
